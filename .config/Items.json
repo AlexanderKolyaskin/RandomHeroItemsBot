@@ -1,0 +1,18 @@
+{
+  "token": "8417702204:AAELRh-M6xx6nj2_CzyubqX-2DBOzEsfoSI",
+  "Heroes": ["alchemist","axe"],
+  "Items": [
+    {
+      "name" : "yasha",
+      "category": "урон",
+      "partOf": ["yasha and kaya", "yasha and sange", "manta style"],
+      "img_path": ""
+    },
+    {
+      "name" : "yasha and kaya",
+      "category": "урон",
+      "partOf": [""],
+      "img_path": ""
+    }
+  ]
+}
