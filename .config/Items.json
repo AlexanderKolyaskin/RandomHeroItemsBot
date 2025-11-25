@@ -13,6 +13,12 @@
       "category": "урон",
       "partOf": [""],
       "img_path": ""
+    },
+    {
+      "name" : "sange",
+      "category": "урон",
+      "partOf": ["abyssal blade", "yasha and sange", "kaya and sange"],
+      "img_path": ""
     }
   ]
 }
